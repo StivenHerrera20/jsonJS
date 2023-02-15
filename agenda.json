@@ -1,0 +1,13 @@
+[
+  {
+    "nombre": "walter",
+    "apellido": "arias",
+    "edad": "54",
+    "atributos": [
+      {
+        "superpoderes": "leer,dormir",
+        "numeroVidas": 69
+      }
+    ]
+  }
+]

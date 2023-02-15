@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "mario",
+    "apellidos": "miranda",
+    "activo": true,
+    "edad": 21
+  },
+  {
+    "nombre": "Kevin",
+    "apellidos": "Villegas",
+    "activo": false,
+    "edad": 19
+  },
+  {
+    "nombre": "Stiven",
+    "apellidos": "Herrera",
+    "activo": true,
+    "edad": 18
+  }
+]
